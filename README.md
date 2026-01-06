@@ -1,3 +1,3 @@
 # NutrIA - Le Coach de Nutrition IA
 
-Ca arrive fort la famille..
+[Venez nombreux](https://nutria-app.streamlit.app/)
